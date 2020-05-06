@@ -1,0 +1,701 @@
+startdate	 starttime	 price	 pricecolor	 availability	 departure	 destination	 distance	 kmpereuro	 duration	
+2016-05-19 	 14:00 	 3 	 price-green 	 2 	 Dietikon 	 Amden 	 78807 	 26 	 0
+2016-05-19 	 18:00 	 6 	 price-red 	 2 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-05-19 	 18:00 	 6 	 price-red 	 3 	 Kloten 	 Sankt Gallen 	 85670 	 14 	 0
+2016-05-19 	 19:00 	 5 	 price-orange 	 2 	 Wallisellen 	 Sankt Gallen 	 81733 	 16 	 0
+2016-05-19 	 20:00 	 6 	 price-red 	 3 	 Schlieren 	 Basel 	 81735 	 13 	 0
+2016-05-20 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-20 	 11:20 	 5 	 price-green 	 5 	 Zürich 	 Landquart 	 105382 	 21 	 1
+2016-05-20 	 12:00 	 7 	 price-orange 	 2 	 Zürich 	 Biel 	 116902 	 16 	 1
+2016-05-20 	 12:00 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121079 	 13 	 1
+2016-05-20 	 14:40 	 5 	 price-orange 	 3 	 Kloten 	 Basel 	 86407 	 17 	 0
+2016-05-20 	 16:00 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 81912 	 16 	 0
+2016-05-21 	 19:30 	 6 	 price-red 	 3 	 Kloten 	 Sankt Gallen 	 85670 	 14 	 0
+2016-05-22 	 18:20 	 5 	 price-green 	 5 	 Zürich 	 Landquart 	 106204 	 21 	 1
+2016-05-22 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-05-23 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-23 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-23 	 07:30 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 87139 	 17 	 1
+2016-05-24 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-24 	 09:00 	 9 	 price-red 	 4 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-25 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-25 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-05-26 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-27 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-27 	 17:00 	 7 	 price-green 	 3 	 Zürich 	 Davos 	 148115 	 21 	 1
+2016-05-28 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-05-29 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-05-30 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-30 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-30 	 18:00 	 6 	 price-red 	 3 	 Kloten 	 Sankt Gallen 	 85670 	 14 	 0
+2016-05-31 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-05-31 	 13:30 	 6 	 price-red 	 3 	 Kloten 	 Sankt Gallen 	 85670 	 14 	 0
+2016-06-01 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-06-01 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-06-02 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-06-03 	 06:00 	 5 	 price-orange 	 3 	 Zürich 	 Sursee 	 82374 	 16 	 0
+2016-06-03 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-06-04 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-06-05 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-06-06 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-06-08 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-06-12 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-06-13 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-06-15 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-06-18 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-06-19 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-06-20 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-06-22 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-06-26 	 22:30 	 5 	 price-orange 	 2 	 Affoltern am Albis 	 Pratteln 	 82926 	 16 	 0
+2016-06-27 	 06:15 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-06-29 	 18:00 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-09-02 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-09-03 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-09-17 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-10-07 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-10-08 	 06:00 	 7 	 price-orange 	 3 	 Dielsdorf 	 Bern 	 114536 	 16 	 1
+2016-05-19 	 13:00 	 25 	 price-orange 	 2 	 Zürich 	 Bozen 	 403668 	 16 	 4
+2016-05-19 	 14:00 	 15 	 price-green 	 3 	 Zürich 	 München 	 307622 	 20 	 3
+2016-05-19 	 14:30 	 3 	 price-red 	 3 	 Zürich 	 Winterthur 	 23833 	 7 	 0
+2016-05-19 	 15:00 	 2 	 price-green 	 1 	 Zürich 	 Basel 	 82244 	 41 	 0
+2016-05-19 	 15:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 85919 	 14 	 1
+2016-05-19 	 15:00 	 22 	 price-red 	 3 	 Zürich 	 München 	 310475 	 14 	 3
+2016-05-19 	 15:30 	 28 	 price-green 	 1 	 Dielsdorf 	 Köln 	 564620 	 20 	 5
+2016-05-19 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-19 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-05-19 	 16:00 	 27 	 price-red 	 2 	 Zürich 	 Nürnberg 	 422170 	 15 	 4
+2016-05-19 	 16:20 	 1 	 price-green 	 1 	 Zürich 	 Winterthur 	 23833 	 23 	 0
+2016-05-19 	 16:20 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 82532 	 16 	 0
+2016-05-19 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-19 	 17:00 	 9 	 price-red 	 3 	 Dietikon 	 Freiburg Im Breisgau 	 141134 	 15 	 1
+2016-05-19 	 17:00 	 20 	 price-red 	 Ausgebucht 	 Zürich 	 München 	 307411 	 15 	 3
+2016-05-19 	 17:00 	 28 	 price-red 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 14 	 4
+2016-05-19 	 17:00 	 1 	 price-green 	 3 	 Zürich 	 Wangen-Brüttisellen 	 24867 	 24 	 0
+2016-05-19 	 17:10 	 8 	 price-orange 	 Ausgebucht 	 Zürich 	 Lustenau 	 116697 	 14 	 1
+2016-05-19 	 17:20 	 5 	 price-green 	 Ausgebucht 	 Zürich 	 Zuchwil 	 90436 	 18 	 1
+2016-05-19 	 17:30 	 30 	 price-green 	 2 	 Zürich 	 Sangerhausen 	 624456 	 20 	 5
+2016-05-19 	 17:30 	 35 	 price-orange 	 3 	 Zürich 	 Leipzig 	 682022 	 19 	 6
+2016-05-19 	 18:00 	 16 	 price-green 	 1 	 Zürich 	 Neustadt an der Weinstraße 	 324010 	 20 	 3
+2016-05-19 	 18:00 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-05-19 	 18:00 	 28 	 price-orange 	 2 	 Zürich 	 Salzburg 	 451481 	 16 	 4
+2016-05-19 	 18:00 	 55 	 price-orange 	 Ausgebucht 	 Zürich 	 Budapest 	 990250 	 18 	 9
+2016-05-19 	 18:30 	 14 	 price-red 	 3 	 Zürich 	 Stuttgart 	 216700 	 15 	 2
+2016-05-19 	 19:00 	 18 	 price-red 	 3 	 Zürich 	 Ulm 	 247119 	 13 	 2
+2016-05-19 	 19:00 	 25 	 price-orange 	 2 	 Zürich 	 Frankfurt am Main 	 410143 	 16 	 3
+2016-05-19 	 19:00 	 48 	 price-green 	 2 	 Zürich 	 Budapest 	 990528 	 20 	 9
+2016-05-19 	 19:10 	 8 	 price-orange 	 3 	 Zürich 	 Lindau (Bodensee) 	 138849 	 17 	 1
+2016-05-19 	 19:10 	 28 	 price-green 	 3 	 Zürich 	 Köln 	 565800 	 20 	 5
+2016-05-19 	 19:30 	 25 	 price-orange 	 Ausgebucht 	 Zürich 	 Kronberg im Taunus 	 419182 	 16 	 4
+2016-05-19 	 21:20 	 15 	 price-green 	 3 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-19 	 22:00 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 82532 	 16 	 0
+2016-05-19 	 22:10 	 1 	 price-green 	 3 	 Zürich 	 Winterthur 	 23833 	 23 	 0
+2016-05-20 	 01:00 	 27 	 price-red 	 3 	 Zürich 	 Nürnberg 	 419496 	 15 	 4
+2016-05-20 	 03:00 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 87139 	 17 	 1
+2016-05-20 	 05:00 	 15 	 price-orange 	 3 	 Zürich 	 Chum 	 234733 	 15 	 2
+2016-05-20 	 06:00 	 16 	 price-orange 	 3 	 Zürich 	 München 	 310475 	 19 	 3
+2016-05-20 	 06:00 	 10 	 price-green 	 1 	 Zürich 	 Stuttgart 	 217049 	 21 	 2
+2016-05-20 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-20 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-20 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-05-20 	 08:00 	 25 	 price-orange 	 Ausgebucht 	 Zürich 	 Frankfurt am Main 	 403767 	 16 	 4
+2016-05-20 	 08:20 	 35 	 price-orange 	 3 	 Zürich 	 Leipzig 	 685304 	 19 	 6
+2016-05-20 	 09:00 	 40 	 price-green 	 1 	 Zürich 	 Amsterdam 	 811745 	 20 	 7
+2016-05-20 	 09:30 	 13 	 price-green 	 2 	 Zürich 	 Mailand 	 280099 	 21 	 3
+2016-05-20 	 10:10 	 2 	 price-green 	 3 	 Zürich 	 Aarau 	 46164 	 23 	 0
+2016-05-20 	 10:30 	 3 	 price-orange 	 3 	 Zürich 	 Schaffhausen 	 51873 	 17 	 0
+2016-05-20 	 11:20 	 17 	 price-orange 	 3 	 Zürich 	 Genève 	 276274 	 16 	 2
+2016-05-20 	 11:30 	 15 	 price-red 	 2 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-05-20 	 12:00 	 5 	 price-orange 	 Ausgebucht 	 Zürich 	 Basel 	 86851 	 17 	 1
+2016-05-20 	 12:00 	 20 	 price-orange 	 2 	 Zürich 	 Neustadt an der Weinstraße 	 324010 	 16 	 3
+2016-05-20 	 12:00 	 22 	 price-orange 	 3 	 Zürich 	 Bad Reichenhall 	 438897 	 19 	 4
+2016-05-20 	 12:00 	 50 	 price-orange 	 2 	 Zürich 	 Berlin 	 843994 	 16 	 7
+2016-05-20 	 12:20 	 35 	 price-red 	 2 	 Zürich 	 Erfurt 	 558829 	 15 	 5
+2016-05-20 	 12:30 	 6 	 price-red 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 14 	 0
+2016-05-20 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-05-20 	 13:00 	 9 	 price-green 	 3 	 Zürich 	 Tübingen 	 189965 	 21 	 2
+2016-05-20 	 13:00 	 10 	 price-green 	 3 	 Kloten 	 Stuttgart 	 216155 	 21 	 2
+2016-05-20 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-05-20 	 13:10 	 3 	 price-green 	 3 	 Zürich 	 Konstanz 	 70396 	 23 	 0
+2016-05-20 	 13:30 	 40 	 price-red 	 2 	 Zürich 	 Bonn 	 549081 	 13 	 5
+2016-05-20 	 13:50 	 3 	 price-orange 	 4 	 Zürich 	 Schaffhausen 	 51873 	 17 	 0
+2016-05-20 	 14:20 	 9 	 price-red 	 3 	 Zürich 	 Lindau (Bodensee) 	 131567 	 14 	 1
+2016-05-20 	 14:30 	 5 	 price-orange 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 17 	 0
+2016-05-20 	 15:00 	 18 	 price-orange 	 3 	 Greifensee 	 Landau in der Pfalz 	 307829 	 17 	 3
+2016-05-20 	 15:00 	 20 	 price-orange 	 3 	 Zürich 	 Bad Dürkheim 	 335781 	 16 	 3
+2016-05-20 	 15:00 	 30 	 price-red 	 1 	 Zürich 	 Frankfurt Am Main 	 400915 	 13 	 3
+2016-05-20 	 15:00 	 40 	 price-orange 	 1 	 Zürich 	 Wien 	 741899 	 18 	 7
+2016-05-20 	 15:00 	 14 	 price-green 	 4 	 Zürich 	 München 	 310475 	 22 	 3
+2016-05-20 	 15:00 	 75 	 price-red 	 2 	 Zürich 	 Trani 	 1121988 	 14 	 10
+2016-05-20 	 15:20 	 22 	 price-orange 	 1 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-05-20 	 15:30 	 25 	 price-orange 	 2 	 Wallisellen 	 Missian 	 411509 	 16 	 4
+2016-05-20 	 15:40 	 4 	 price-orange 	 2 	 Zürich 	 Rheinfelden (Baden) 	 75595 	 18 	 0
+2016-05-20 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-20 	 16:00 	 11 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 216700 	 19 	 2
+2016-05-20 	 16:00 	 13 	 price-orange 	 Ausgebucht 	 Zürich 	 Stuttgart 	 216700 	 16 	 2
+2016-05-20 	 16:00 	 20 	 price-orange 	 3 	 Zürich 	 Heidelberg 	 1 	 0 	 999
+2016-05-20 	 16:00 	 24 	 price-orange 	 3 	 Zürich 	 Salzburg 	 451481 	 18 	 4
+2016-05-20 	 16:00 	 25 	 price-orange 	 3 	 Zürich 	 Nürnberg 	 422170 	 16 	 4
+2016-05-20 	 16:00 	 52 	 price-orange 	 3 	 Zürich 	 Budapest 	 990528 	 19 	 9
+2016-05-20 	 16:00 	 15 	 price-green 	 3 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-20 	 16:00 	 25 	 price-orange 	 Ausgebucht 	 Kloten 	 Mainz 	 405841 	 16 	 4
+2016-05-20 	 16:10 	 15 	 price-red 	 3 	 Zürich 	 Stuttgart 	 218665 	 14 	 2
+2016-05-20 	 16:10 	 30 	 price-red 	 2 	 Zürich 	 Karben 	 427165 	 14 	 4
+2016-05-20 	 16:20 	 6 	 price-green 	 Ausgebucht 	 Zürich 	 Lustenau 	 117508 	 19 	 1
+2016-05-20 	 16:30 	 2 	 price-red 	 Ausgebucht 	 Dietikon 	 Baden 	 19104 	 9 	 0
+2016-05-20 	 16:30 	 5 	 price-orange 	 3 	 Zürich 	 Stockach 	 88814 	 17 	 1
+2016-05-20 	 16:30 	 9 	 price-red 	 3 	 Zürich 	 Bregenz 	 120928 	 13 	 1
+2016-05-20 	 16:30 	 15 	 price-red 	 4 	 Zürich 	 Stuttgart 	 231282 	 15 	 2
+2016-05-20 	 16:30 	 18 	 price-orange 	 3 	 Zürich 	 Ludwigshafen am Rhein 	 1 	 0 	 999
+2016-05-20 	 16:30 	 21 	 price-orange 	 3 	 Zürich 	 Saarbrücken 	 338603 	 16 	 3
+2016-05-20 	 16:30 	 34 	 price-green 	 1 	 Zürich 	 Leipzig 	 682022 	 20 	 6
+2016-05-20 	 16:30 	 13 	 price-red 	 3 	 Dietlikon 	 Stuttgart 	 208653 	 16 	 2
+2016-05-20 	 16:40 	 40 	 price-red 	 1 	 Zürich 	 Dortmund 	 617981 	 15 	 5
+2016-05-20 	 16:50 	 6 	 price-orange 	 2 	 Adliswil 	 Radolfzell am Bodensee 	 96812 	 16 	 1
+2016-05-20 	 16:50 	 15 	 price-green 	 2 	 Zürich 	 München 	 306728 	 20 	 3
+2016-05-20 	 16:50 	 2 	 price-green 	 2 	 Zürich 	 Lörrach 	 82805 	 41 	 1
+2016-05-20 	 16:50 	 3 	 price-red 	 3 	 Zürich 	 Dietlikon 	 11746 	 3 	 0
+2016-05-20 	 17:00 	 4 	 price-orange 	 2 	 Kloten 	 Sankt Blasien 	 67971 	 16 	 1
+2016-05-20 	 17:00 	 10 	 price-green 	 3 	 Zürich 	 Offenburg 	 204182 	 20 	 2
+2016-05-20 	 17:00 	 10 	 price-red 	 3 	 Zürich 	 Freiburg im Breisgau 	 150881 	 15 	 1
+2016-05-20 	 17:00 	 20 	 price-orange 	 3 	 Zürich 	 München 	 301020 	 15 	 3
+2016-05-20 	 17:00 	 20 	 price-red 	 2 	 Zürich 	 München 	 313681 	 15 	 3
+2016-05-20 	 17:00 	 22 	 price-orange 	 3 	 Zürich 	 Nürnberg 	 422170 	 19 	 4
+2016-05-20 	 17:00 	 25 	 price-orange 	 1 	 Zürich 	 Frankfurt am Main 	 407370 	 16 	 3
+2016-05-20 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-05-20 	 17:00 	 35 	 price-orange 	 1 	 Zürich 	 Annaberg-Buchholz 	 657711 	 18 	 6
+2016-05-20 	 17:00 	 50 	 price-red 	 2 	 Zürich 	 Wien 	 742247 	 14 	 7
+2016-05-20 	 17:00 	 55 	 price-orange 	 2 	 Zürich 	 Berlin 	 855195 	 15 	 8
+2016-05-20 	 17:00 	 3 	 price-green 	 1 	 Zürich 	 Singen (Hohentwiel) 	 74809 	 24 	 1
+2016-05-20 	 17:10 	 15 	 price-green 	 Ausgebucht 	 Zürich 	 Mannheim 	 1 	 0 	 999
+2016-05-20 	 17:10 	 20 	 price-red 	 1 	 Zürich 	 München 	 300803 	 15 	 3
+2016-05-20 	 17:20 	 18 	 price-orange 	 3 	 Affoltern am Albis 	 Saarbrücken 	 1 	 0 	 999
+2016-05-20 	 17:20 	 24 	 price-green 	 3 	 Zürich 	 Heilbad Heiligenstadt 	 619926 	 25 	 5
+2016-05-20 	 17:20 	 30 	 price-red 	 2 	 Zürich 	 Frankfurt am Main 	 405207 	 13 	 3
+2016-05-20 	 17:20 	 12 	 price-green 	 3 	 Glattbrugg 	 Langenau 	 253365 	 21 	 2
+2016-05-20 	 17:30 	 6 	 price-green 	 1 	 Zürich 	 Lustenau 	 113801 	 18 	 1
+2016-05-20 	 17:30 	 10 	 price-green 	 Ausgebucht 	 Zürich 	 Esslingen am Neckar 	 229671 	 22 	 2
+2016-05-20 	 17:30 	 14 	 price-green 	 3 	 Kloten 	 Mailand 	 295010 	 21 	 3
+2016-05-20 	 17:30 	 15 	 price-red 	 1 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-05-20 	 17:30 	 25 	 price-red 	 3 	 Zürich 	 Würzburg 	 358738 	 14 	 3
+2016-05-20 	 17:30 	 25 	 price-orange 	 2 	 Zürich 	 Frankfurt am Main 	 410140 	 16 	 3
+2016-05-20 	 17:30 	 40 	 price-orange 	 3 	 Zürich 	 Dresden 	 715615 	 17 	 6
+2016-05-20 	 17:30 	 2 	 price-red 	 1 	 Zürich 	 Bülach 	 21030 	 10 	 0
+2016-05-20 	 17:50 	 12 	 price-orange 	 1 	 Zürich 	 Stuttgart 	 216700 	 18 	 2
+2016-05-20 	 17:50 	 15 	 price-red 	 3 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-05-20 	 18:00 	 20 	 price-orange 	 3 	 Schlieren 	 Würzburg 	 369617 	 18 	 3
+2016-05-20 	 18:00 	 45 	 price-orange 	 3 	 Zürich 	 Cottbus 	 845965 	 18 	 7
+2016-05-20 	 18:00 	 48 	 price-green 	 Ausgebucht 	 Zürich 	 Hajdúszoboszló 	 1257073 	 26 	 11
+2016-05-20 	 18:10 	 20 	 price-red 	 3 	 Zürich 	 Mailand 	 279929 	 13 	 3
+2016-05-20 	 18:10 	 17 	 price-orange 	 2 	 Zürich 	 München 	 303788 	 17 	 3
+2016-05-20 	 18:30 	 11 	 price-green 	 Ausgebucht 	 Wallisellen 	 Lausanne 	 231310 	 21 	 2
+2016-05-20 	 18:40 	 2 	 price-green 	 3 	 Zürich 	 Basel 	 87139 	 43 	 1
+2016-05-20 	 18:40 	 6 	 price-red 	 3 	 Zürich 	 Basel 	 86962 	 14 	 1
+2016-05-20 	 18:40 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 269732 	 14 	 2
+2016-05-20 	 18:50 	 25 	 price-green 	 3 	 Schlieren 	 Suhl 	 503817 	 20 	 4
+2016-05-20 	 19:00 	 10 	 price-red 	 3 	 Zürich 	 Ravensburg 	 143662 	 14 	 1
+2016-05-20 	 19:00 	 12 	 price-orange 	 Ausgebucht 	 Zürich 	 Stuttgart 	 215335 	 17 	 2
+2016-05-20 	 19:00 	 12 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 216700 	 18 	 2
+2016-05-20 	 19:00 	 19 	 price-orange 	 1 	 Zürich 	 München 	 310475 	 16 	 3
+2016-05-20 	 19:00 	 19 	 price-orange 	 2 	 Zürich 	 München 	 307274 	 16 	 3
+2016-05-20 	 19:00 	 22 	 price-green 	 3 	 Zürich 	 Bamberg 	 451088 	 20 	 4
+2016-05-20 	 19:30 	 5 	 price-green 	 4 	 Zürich 	 Sankt Gallen 	 86215 	 17 	 0
+2016-05-20 	 19:30 	 10 	 price-green 	 1 	 Zürich 	 Stuttgart 	 217049 	 21 	 2
+2016-05-20 	 19:30 	 25 	 price-orange 	 3 	 Zürich 	 Trier 	 431515 	 17 	 4
+2016-05-20 	 19:32 	 19 	 price-red 	 4 	 Zürich 	 Karlsruhe 	 271518 	 14 	 2
+2016-05-20 	 20:00 	 20 	 price-green 	 3 	 Zürich 	 Frankfurt am Main 	 408704 	 20 	 4
+2016-05-20 	 20:00 	 45 	 price-red 	 3 	 Zürich 	 Dresden 	 720771 	 16 	 6
+2016-05-20 	 20:10 	 12 	 price-red 	 4 	 Zürich 	 Tübingen 	 189926 	 15 	 2
+2016-05-20 	 20:40 	 2 	 price-red 	 3 	 Zürich 	 Winterthur 	 23833 	 11 	 0
+2016-05-20 	 21:50 	 6 	 price-green 	 3 	 Zürich 	 Bern 	 121257 	 20 	 1
+2016-05-20 	 23:20 	 2 	 price-green 	 3 	 Zürich 	 Schwyz 	 58656 	 29 	 0
+2016-05-20 	 23:40 	 3 	 price-green 	 1 	 Zürich 	 Sankt Gallen 	 86215 	 28 	 0
+2016-05-21 	 02:00 	 15 	 price-red 	 3 	 Zürich 	 Väris 	 236845 	 15 	 2
+2016-05-21 	 07:00 	 4 	 price-green 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 21 	 0
+2016-05-21 	 08:00 	 21 	 price-red 	 1 	 Zürich 	 Innsbruck 	 291852 	 13 	 3
+2016-05-21 	 08:00 	 1 	 price-green 	 3 	 Zürich 	 Winterthur 	 23833 	 23 	 0
+2016-05-21 	 10:00 	 50 	 price-orange 	 1 	 Zürich 	 Berlin 	 843994 	 16 	 7
+2016-05-21 	 10:30 	 9 	 price-red 	 3 	 Zürich 	 Bregenz 	 120928 	 13 	 1
+2016-05-21 	 11:00 	 9 	 price-orange 	 3 	 Zürich 	 Freiburg Im Breisgau 	 150881 	 16 	 1
+2016-05-21 	 12:20 	 22 	 price-orange 	 4 	 Zürich 	 Lyon 	 424202 	 19 	 4
+2016-05-21 	 13:00 	 27 	 price-red 	 3 	 Zürich 	 Frankfurt Am Main 	 395978 	 14 	 3
+2016-05-21 	 13:20 	 6 	 price-red 	 3 	 Zürich 	 Basel 	 82354 	 13 	 0
+2016-05-21 	 13:40 	 6 	 price-green 	 3 	 Zürich 	 Bern 	 121257 	 20 	 1
+2016-05-21 	 13:50 	 9 	 price-red 	 1 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-21 	 14:10 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 397579 	 15 	 3
+2016-05-21 	 14:30 	 6 	 price-orange 	 2 	 Zürich 	 Überlingen 	 103071 	 17 	 1
+2016-05-21 	 14:50 	 5 	 price-green 	 2 	 Zürich 	 Tuttlingen 	 102521 	 20 	 1
+2016-05-21 	 15:40 	 1 	 price-red 	 Ausgebucht 	 Zürich 	 Kloten 	 10136 	 10 	 0
+2016-05-21 	 15:40 	 13 	 price-orange 	 2 	 Zürich 	 Stuttgart 	 217885 	 16 	 2
+2016-05-21 	 16:30 	 15 	 price-orange 	 3 	 Zürich 	 Augsburg 	 286104 	 19 	 2
+2016-05-21 	 17:00 	 6 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 20 	 1
+2016-05-21 	 18:00 	 4 	 price-orange 	 3 	 Zürich 	 Konstanz 	 67892 	 16 	 0
+2016-05-21 	 19:00 	 9 	 price-red 	 3 	 Zürich 	 Feldkirch 	 128736 	 14 	 1
+2016-05-21 	 19:20 	 1 	 price-green 	 2 	 Zürich 	 Winterthur 	 23833 	 23 	 0
+2016-05-21 	 21:20 	 13 	 price-orange 	 Ausgebucht 	 Zürich 	 Stuttgart 	 208809 	 16 	 2
+2016-05-22 	 05:00 	 19 	 price-red 	 Ausgebucht 	 Zürich 	 Mailand 	 279929 	 14 	 3
+2016-05-22 	 08:00 	 2 	 price-green 	 3 	 Zürich 	 Basel 	 87139 	 43 	 1
+2016-05-22 	 08:30 	 19 	 price-red 	 4 	 Zürich 	 Mailand 	 280099 	 14 	 3
+2016-05-22 	 09:00 	 10 	 price-orange 	 3 	 Zürich 	 Tübingen 	 189616 	 18 	 2
+2016-05-22 	 10:00 	 10 	 price-green 	 2 	 Zürich 	 Stuttgart 	 217468 	 21 	 2
+2016-05-22 	 10:00 	 36 	 price-green 	 3 	 Zürich 	 Osnabrück 	 724419 	 20 	 6
+2016-05-22 	 10:30 	 5 	 price-green 	 3 	 Zürich 	 Bern 	 121257 	 24 	 1
+2016-05-22 	 12:30 	 16 	 price-orange 	 2 	 Zürich 	 München 	 310475 	 19 	 3
+2016-05-22 	 13:30 	 17 	 price-orange 	 2 	 Zürich 	 Genève 	 276274 	 16 	 2
+2016-05-22 	 15:00 	 10 	 price-orange 	 2 	 Zürich 	 Tübingen 	 189965 	 18 	 2
+2016-05-22 	 15:00 	 20 	 price-green 	 1 	 Zürich 	 Nürnberg 	 422170 	 21 	 4
+2016-05-22 	 15:00 	 9 	 price-red 	 2 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-22 	 15:20 	 8 	 price-orange 	 3 	 Zürich 	 Freiburg im Breisgau 	 151722 	 18 	 1
+2016-05-22 	 15:30 	 3 	 price-orange 	 3 	 Zürich 	 Schaffhausen 	 52222 	 17 	 0
+2016-05-22 	 16:00 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-22 	 16:00 	 16 	 price-red 	 4 	 Zürich 	 Schlanders 	 252931 	 15 	 3
+2016-05-22 	 16:00 	 17 	 price-red 	 3 	 Zürich 	 Heilbronn 	 265365 	 15 	 2
+2016-05-22 	 16:00 	 18 	 price-green 	 2 	 Zürich 	 Hof 	 543907 	 30 	 5
+2016-05-22 	 16:00 	 25 	 price-orange 	 3 	 Zürich 	 Salzburg 	 451481 	 18 	 4
+2016-05-22 	 16:30 	 20 	 price-red 	 3 	 Zürich 	 München 	 307622 	 15 	 3
+2016-05-22 	 16:30 	 23 	 price-orange 	 2 	 Zürich 	 Frankfurt am Main 	 403767 	 17 	 4
+2016-05-22 	 16:30 	 3 	 price-red 	 3 	 Zürich 	 Aadorf 	 48157 	 16 	 0
+2016-05-22 	 17:00 	 18 	 price-orange 	 3 	 Zürich 	 Mannheim 	 332364 	 18 	 3
+2016-05-22 	 17:00 	 20 	 price-orange 	 2 	 Zürich 	 Würzburg 	 358738 	 17 	 3
+2016-05-22 	 17:40 	 10 	 price-orange 	 2 	 Zürich 	 Böblingen 	 197523 	 19 	 2
+2016-05-22 	 18:00 	 15 	 price-green 	 2 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-22 	 18:00 	 15 	 price-red 	 2 	 Zürich 	 Tübingen 	 190528 	 12 	 2
+2016-05-22 	 18:00 	 15 	 price-green 	 Ausgebucht 	 Zürich 	 München 	 307274 	 20 	 3
+2016-05-22 	 18:00 	 23 	 price-orange 	 1 	 Zürich 	 Frankfurt am Main 	 413492 	 17 	 3
+2016-05-22 	 18:00 	 16 	 price-green 	 3 	 Zürich 	 Wolfratshausen 	 321489 	 20 	 3
+2016-05-22 	 18:00 	 6 	 price-green 	 1 	 Zürich 	 Bregenz 	 120928 	 20 	 1
+2016-05-22 	 18:10 	 8 	 price-green 	 2 	 Zürich 	 München 	 318627 	 39 	 3
+2016-05-22 	 18:30 	 9 	 price-green 	 1 	 Wallisellen 	 Tübingen 	 184885 	 20 	 2
+2016-05-22 	 18:30 	 4 	 price-orange 	 Ausgebucht 	 Zürich 	 Singen (Hohentwiel) 	 74809 	 18 	 1
+2016-05-22 	 18:50 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 13 	 1
+2016-05-22 	 18:50 	 15 	 price-orange 	 3 	 Zürich 	 Milano 	 280099 	 18 	 3
+2016-05-22 	 19:00 	 4 	 price-orange 	 2 	 Zürich 	 Singen (Hohentwiel) 	 71367 	 17 	 0
+2016-05-22 	 19:00 	 15 	 price-green 	 1 	 Zürich 	 München 	 304737 	 20 	 3
+2016-05-22 	 19:00 	 20 	 price-red 	 3 	 Zürich 	 Heidelberg 	 318902 	 15 	 3
+2016-05-22 	 19:00 	 20 	 price-orange 	 3 	 Zürich 	 Saarbrücken 	 338666 	 16 	 3
+2016-05-22 	 19:30 	 5 	 price-orange 	 Ausgebucht 	 Zürich 	 Basel 	 82532 	 16 	 0
+2016-05-22 	 19:30 	 7 	 price-orange 	 2 	 Zürich 	 Bregenz 	 120928 	 17 	 1
+2016-05-22 	 19:50 	 2 	 price-green 	 2 	 Zürich 	 Wil 	 58613 	 29 	 0
+2016-05-22 	 20:00 	 20 	 price-green 	 3 	 Kloten 	 Frankfurt Am Main 	 403136 	 20 	 4
+2016-05-22 	 20:00 	 20 	 price-red 	 1 	 Zürich 	 München 	 304671 	 15 	 3
+2016-05-22 	 20:00 	 20 	 price-orange 	 3 	 Zürich 	 Saarbrücken 	 336547 	 16 	 3
+2016-05-22 	 20:20 	 10 	 price-green 	 3 	 Zürich 	 Memmingen 	 197223 	 19 	 2
+2016-05-22 	 20:30 	 6 	 price-red 	 3 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-05-22 	 21:30 	 9 	 price-red 	 3 	 Kloten 	 Bern 	 126183 	 14 	 1
+2016-05-22 	 22:10 	 4 	 price-orange 	 3 	 Zürich 	 Oensingen 	 75177 	 18 	 0
+2016-05-22 	 22:30 	 3 	 price-red 	 3 	 Zürich 	 Aarau 	 45658 	 15 	 0
+2016-05-22 	 23:20 	 3 	 price-orange 	 3 	 Zürich 	 Luzern 	 51996 	 17 	 0
+2016-05-23 	 00:30 	 1 	 price-green 	 4 	 Zürich 	 Aarburg 	 59423 	 59 	 0
+2016-05-23 	 04:00 	 17 	 price-green 	 2 	 Zürich 	 Würzburg 	 359087 	 21 	 3
+2016-05-23 	 04:50 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-23 	 06:00 	 18 	 price-green 	 Ausgebucht 	 Zürich 	 Darmstadt 	 375581 	 20 	 3
+2016-05-23 	 06:00 	 20 	 price-red 	 Ausgebucht 	 Zürich 	 München 	 307411 	 15 	 3
+2016-05-23 	 06:30 	 6 	 price-orange 	 3 	 Widen 	 Sankt Gallen 	 103109 	 17 	 1
+2016-05-23 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-23 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-23 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-05-23 	 07:30 	 2 	 price-green 	 3 	 Zürich 	 Frauenfeld 	 43507 	 21 	 0
+2016-05-23 	 07:30 	 20 	 price-green 	 3 	 Dietlikon 	 Nürnberg 	 409168 	 20 	 3
+2016-05-23 	 09:30 	 15 	 price-red 	 3 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-05-23 	 10:00 	 16 	 price-orange 	 3 	 Zürich 	 Heidelberg 	 324076 	 20 	 3
+2016-05-23 	 10:30 	 4 	 price-green 	 3 	 Zürich 	 Basel 	 87139 	 21 	 1
+2016-05-23 	 11:20 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 126630 	 14 	 1
+2016-05-23 	 14:00 	 15 	 price-green 	 3 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-23 	 15:00 	 7 	 price-green 	 4 	 Zürich 	 Lindau (Bodensee) 	 138849 	 19 	 1
+2016-05-23 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-23 	 16:00 	 4 	 price-green 	 3 	 Zürich 	 Basel 	 87139 	 21 	 1
+2016-05-23 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-23 	 17:00 	 15 	 price-green 	 5 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-23 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-05-23 	 17:20 	 5 	 price-green 	 3 	 Zürich 	 Zuchwil 	 90436 	 18 	 1
+2016-05-23 	 18:00 	 20 	 price-green 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 20 	 4
+2016-05-24 	 00:10 	 9 	 price-red 	 3 	 Opfikon 	 Bern 	 122667 	 13 	 1
+2016-05-24 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-24 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-24 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-05-24 	 07:30 	 2 	 price-green 	 3 	 Zürich 	 Frauenfeld 	 43507 	 21 	 0
+2016-05-24 	 09:00 	 3 	 price-red 	 4 	 Zürich 	 Winterthur 	 23833 	 7 	 0
+2016-05-24 	 09:20 	 20 	 price-red 	 3 	 Zürich 	 München 	 310475 	 15 	 3
+2016-05-24 	 10:00 	 6 	 price-red 	 2 	 Opfikon 	 Lörrach 	 84060 	 14 	 0
+2016-05-24 	 11:00 	 8 	 price-red 	 3 	 Zürich 	 Bregenz 	 120928 	 15 	 1
+2016-05-24 	 14:00 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 402033 	 16 	 3
+2016-05-24 	 15:00 	 9 	 price-red 	 4 	 Zürich 	 Lindau (Bodensee) 	 138849 	 15 	 1
+2016-05-24 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-24 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-24 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-05-24 	 18:30 	 13 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 208885 	 16 	 2
+2016-05-24 	 18:50 	 6 	 price-red 	 3 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-05-24 	 19:30 	 5 	 price-green 	 5 	 Zürich 	 Sankt Gallen 	 86215 	 17 	 0
+2016-05-24 	 23:50 	 17 	 price-green 	 3 	 Zürich 	 Würzburg 	 360211 	 21 	 3
+2016-05-25 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-25 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-25 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-05-25 	 08:00 	 13 	 price-orange 	 3 	 Kloten 	 Stuttgart 	 216155 	 16 	 2
+2016-05-25 	 08:00 	 15 	 price-orange 	 3 	 Zürich 	 Mailand 	 280099 	 18 	 3
+2016-05-25 	 10:00 	 9 	 price-orange 	 3 	 Zürich 	 Freiburg Im Breisgau 	 150881 	 16 	 1
+2016-05-25 	 12:30 	 5 	 price-green 	 1 	 Zürich 	 Villingen-Schwenningen 	 102789 	 20 	 1
+2016-05-25 	 12:40 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 397579 	 15 	 3
+2016-05-25 	 14:40 	 6 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 20 	 1
+2016-05-25 	 15:40 	 5 	 price-green 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 17 	 0
+2016-05-25 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-25 	 16:10 	 33 	 price-orange 	 2 	 Illnau-Effretikon 	 Düsseldorf 	 1 	 0 	 999
+2016-05-25 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-25 	 17:00 	 20 	 price-red 	 1 	 Zürich 	 München 	 307411 	 15 	 3
+2016-05-25 	 17:00 	 30 	 price-orange 	 2 	 Zürich 	 Köln 	 566701 	 18 	 5
+2016-05-25 	 17:00 	 30 	 price-orange 	 2 	 Zürich 	 Erfurt 	 551112 	 18 	 5
+2016-05-25 	 17:30 	 2 	 price-orange 	 3 	 Zürich 	 Würenlingen 	 33098 	 16 	 0
+2016-05-25 	 17:40 	 5 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 24 	 1
+2016-05-25 	 17:40 	 28 	 price-green 	 3 	 Zürich 	 Köln 	 580527 	 20 	 5
+2016-05-25 	 18:30 	 5 	 price-green 	 3 	 Zürich 	 Chur 	 118863 	 23 	 1
+2016-05-25 	 18:50 	 45 	 price-orange 	 3 	 Zürich 	 Berlin 	 843994 	 18 	 7
+2016-05-25 	 19:00 	 19 	 price-orange 	 3 	 Zürich 	 München 	 310475 	 16 	 3
+2016-05-25 	 19:10 	 13 	 price-green 	 2 	 Dietlikon 	 Karlsruhe 	 264236 	 20 	 2
+2016-05-25 	 19:10 	 25 	 price-orange 	 1 	 Zürich 	 Lyon 	 424202 	 16 	 4
+2016-05-25 	 20:00 	 6 	 price-orange 	 5 	 Zürich 	 Dornbirn 	 121054 	 20 	 1
+2016-05-25 	 20:20 	 13 	 price-green 	 3 	 Zürich 	 Genf 	 276274 	 21 	 2
+2016-05-25 	 21:00 	 1 	 price-red 	 3 	 Zürich 	 Bonstetten 	 14047 	 14 	 0
+2016-05-25 	 21:30 	 16 	 price-orange 	 3 	 Zürich 	 München 	 310475 	 19 	 3
+2016-05-25 	 23:20 	 15 	 price-red 	 4 	 Zürich 	 Stuttgart 	 217918 	 14 	 2
+2016-05-26 	 02:00 	 30 	 price-orange 	 2 	 Zürich 	 Firenze 	 585282 	 19 	 6
+2016-05-26 	 04:30 	 10 	 price-green 	 3 	 Zürich 	 Milano 	 280099 	 28 	 3
+2016-05-26 	 06:00 	 5 	 price-green 	 3 	 Zürich 	 Mailand 	 280099 	 56 	 3
+2016-05-26 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-26 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-26 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-05-26 	 08:10 	 13 	 price-red 	 2 	 Zürich 	 Lugano 	 205435 	 15 	 2
+2016-05-26 	 09:00 	 3 	 price-orange 	 4 	 Zürich 	 Schaffhausen 	 51873 	 17 	 0
+2016-05-26 	 09:30 	 20 	 price-red 	 3 	 Zürich 	 Mailand 	 280099 	 14 	 3
+2016-05-26 	 11:00 	 4 	 price-orange 	 3 	 Zürich 	 Kreuzlingen 	 66492 	 16 	 0
+2016-05-26 	 12:00 	 1 	 price-red 	 1 	 Zürich 	 Kloten 	 10136 	 10 	 0
+2016-05-26 	 12:10 	 8 	 price-red 	 3 	 Zürich 	 Bern 	 121257 	 15 	 1
+2016-05-26 	 12:20 	 11 	 price-green 	 3 	 Zürich 	 Lausanne 	 226437 	 20 	 2
+2016-05-26 	 12:50 	 1 	 price-green 	 2 	 Zürich 	 Zug 	 33752 	 33 	 0
+2016-05-26 	 13:00 	 17 	 price-orange 	 Ausgebucht 	 Zürich 	 Genf 	 276274 	 16 	 2
+2016-05-26 	 14:30 	 30 	 price-red 	 3 	 Zürich 	 Bozen 	 403668 	 13 	 4
+2016-05-26 	 14:30 	 15 	 price-orange 	 2 	 Zürich 	 Milano 	 280099 	 18 	 3
+2016-05-26 	 15:00 	 1 	 price-red 	 3 	 Küsnacht 	 Dübendorf 	 12551 	 12 	 0
+2016-05-26 	 15:00 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 83455 	 16 	 1
+2016-05-26 	 15:00 	 10 	 price-green 	 2 	 Zürich 	 Stuttgart 	 216700 	 21 	 2
+2016-05-26 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-26 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-05-26 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-26 	 17:00 	 9 	 price-green 	 Ausgebucht 	 Zürich 	 Böblingen 	 197523 	 21 	 2
+2016-05-26 	 17:20 	 24 	 price-green 	 3 	 Zürich 	 Heilbad Heiligenstadt 	 619926 	 25 	 5
+2016-05-26 	 18:00 	 10 	 price-green 	 2 	 Zürich 	 Stuttgart 	 206335 	 20 	 2
+2016-05-26 	 19:30 	 3 	 price-green 	 2 	 Zürich 	 Feldkirch 	 128736 	 42 	 1
+2016-05-27 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-27 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-27 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-05-27 	 09:30 	 6 	 price-red 	 3 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-05-27 	 11:00 	 25 	 price-green 	 3 	 Zürich 	 Düsseldorf 	 609428 	 24 	 5
+2016-05-27 	 12:10 	 8 	 price-orange 	 3 	 Zürich 	 Lindau (Bodensee) 	 138849 	 17 	 1
+2016-05-27 	 12:10 	 8 	 price-orange 	 4 	 Zürich 	 Spiez 	 157845 	 19 	 1
+2016-05-27 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-05-27 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-05-27 	 13:10 	 7 	 price-red 	 2 	 Zürich 	 Überlingen 	 103071 	 14 	 1
+2016-05-27 	 13:20 	 4 	 price-green 	 2 	 Zürich 	 Stockach 	 88814 	 22 	 1
+2016-05-27 	 14:20 	 9 	 price-red 	 3 	 Zürich 	 Lindau (Bodensee) 	 131567 	 14 	 1
+2016-05-27 	 14:30 	 5 	 price-orange 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 17 	 0
+2016-05-27 	 14:40 	 4 	 price-orange 	 5 	 Zürich 	 Singen (Hohentwiel) 	 74809 	 18 	 1
+2016-05-27 	 15:00 	 23 	 price-orange 	 3 	 Dübendorf 	 Nürnberg 	 412855 	 17 	 4
+2016-05-27 	 15:10 	 20 	 price-orange 	 2 	 Kloten 	 Saarbrücken 	 348407 	 17 	 3
+2016-05-27 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-05-27 	 15:30 	 40 	 price-red 	 3 	 Zürich 	 Bonn 	 549081 	 13 	 5
+2016-05-27 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-27 	 16:00 	 3 	 price-orange 	 3 	 Zürich 	 Wil 	 58303 	 19 	 0
+2016-05-27 	 16:00 	 7 	 price-orange 	 3 	 Zürich 	 Bregenz 	 120928 	 17 	 1
+2016-05-27 	 16:00 	 18 	 price-orange 	 3 	 Zürich 	 Würzburg 	 359585 	 19 	 3
+2016-05-27 	 16:00 	 52 	 price-orange 	 3 	 Zürich 	 Budapest 	 990528 	 19 	 9
+2016-05-27 	 16:20 	 6 	 price-green 	 1 	 Zürich 	 Lustenau 	 117508 	 19 	 1
+2016-05-27 	 16:30 	 13 	 price-red 	 3 	 Dietlikon 	 Stuttgart 	 208653 	 16 	 2
+2016-05-27 	 16:50 	 40 	 price-red 	 4 	 Zürich 	 Dortmund 	 616595 	 15 	 5
+2016-05-27 	 17:00 	 4 	 price-orange 	 2 	 Kloten 	 Sankt Blasien 	 67971 	 16 	 1
+2016-05-27 	 17:00 	 10 	 price-red 	 3 	 Zürich 	 Freiburg im Breisgau 	 150881 	 15 	 1
+2016-05-27 	 17:00 	 22 	 price-orange 	 3 	 Zürich 	 Nürnberg 	 422170 	 19 	 4
+2016-05-27 	 17:00 	 25 	 price-orange 	 2 	 Zürich 	 Frankfurt am Main 	 407370 	 16 	 3
+2016-05-27 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-05-27 	 17:10 	 15 	 price-green 	 3 	 Zürich 	 Mannheim 	 1 	 0 	 999
+2016-05-27 	 17:30 	 30 	 price-green 	 2 	 Zürich 	 Sangerhausen 	 624456 	 20 	 5
+2016-05-27 	 18:00 	 15 	 price-red 	 3 	 Zürich 	 Stuttgart 	 214150 	 14 	 2
+2016-05-27 	 18:00 	 25 	 price-green 	 3 	 Zürich 	 Siegburg 	 541789 	 21 	 5
+2016-05-27 	 18:00 	 45 	 price-orange 	 3 	 Zürich 	 Cottbus 	 845965 	 18 	 7
+2016-05-27 	 18:00 	 20 	 price-orange 	 2 	 Zürich 	 Tauberbischofsheim 	 327468 	 16 	 3
+2016-05-27 	 18:30 	 10 	 price-green 	 1 	 Zürich 	 Stuttgart 	 218892 	 21 	 2
+2016-05-27 	 18:40 	 28 	 price-green 	 2 	 Zürich 	 Köln 	 570737 	 20 	 5
+2016-05-27 	 19:30 	 15 	 price-red 	 4 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-05-27 	 19:50 	 21 	 price-red 	 3 	 Opfikon 	 München 	 304644 	 14 	 3
+2016-05-27 	 21:00 	 2 	 price-green 	 3 	 Zürich 	 Kriens 	 59880 	 29 	 0
+2016-05-28 	 04:00 	 17 	 price-orange 	 3 	 Zürich 	 München 	 307583 	 18 	 3
+2016-05-28 	 04:00 	 45 	 price-orange 	 4 	 Zürich 	 Berlin 	 843994 	 18 	 7
+2016-05-28 	 06:00 	 13 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 216700 	 16 	 2
+2016-05-28 	 10:00 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 16 	 4
+2016-05-28 	 12:10 	 3 	 price-green 	 3 	 Zürich 	 Konstanz 	 70396 	 23 	 0
+2016-05-28 	 15:40 	 18 	 price-red 	 4 	 Zürich 	 Milano 	 1 	 0 	 999
+2016-05-28 	 16:00 	 3 	 price-orange 	 3 	 Zürich 	 Luzern 	 51996 	 17 	 0
+2016-05-28 	 17:00 	 10 	 price-green 	 2 	 Zürich 	 Genève 	 276274 	 27 	 2
+2016-05-28 	 19:00 	 19 	 price-red 	 4 	 Zürich 	 Karlsruhe 	 271518 	 14 	 2
+2016-05-28 	 20:30 	 10 	 price-orange 	 3 	 Zürich 	 Tübingen 	 189616 	 18 	 2
+2016-05-28 	 23:30 	 10 	 price-green 	 Ausgebucht 	 Kloten 	 Stuttgart 	 1 	 0 	 999
+2016-05-29 	 00:20 	 21 	 price-red 	 2 	 Zürich 	 Innsbruck 	 291741 	 13 	 3
+2016-05-29 	 09:00 	 48 	 price-green 	 2 	 Zürich 	 Wroclaw 	 979812 	 20 	 9
+2016-05-29 	 10:00 	 20 	 price-red 	 3 	 Zürich 	 München 	 310475 	 15 	 3
+2016-05-29 	 11:20 	 15 	 price-red 	 3 	 Zürich 	 Stuttgart 	 217885 	 14 	 2
+2016-05-29 	 12:00 	 20 	 price-green 	 2 	 Zürich 	 Nürnberg 	 434713 	 21 	 4
+2016-05-29 	 14:00 	 12 	 price-orange 	 2 	 Zürich 	 Schwaikheim 	 239286 	 19 	 2
+2016-05-29 	 14:00 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 410143 	 16 	 3
+2016-05-29 	 14:30 	 20 	 price-orange 	 1 	 Zürich 	 Werneck 	 383992 	 19 	 3
+2016-05-29 	 14:50 	 10 	 price-green 	 3 	 Zürich 	 Stuttgart 	 219470 	 21 	 2
+2016-05-29 	 14:50 	 4 	 price-green 	 3 	 Zürich 	 Basel 	 82354 	 20 	 0
+2016-05-29 	 15:10 	 12 	 price-orange 	 2 	 Zürich 	 Stuttgart 	 218943 	 18 	 2
+2016-05-29 	 15:30 	 5 	 price-orange 	 3 	 Zürich 	 Basel 	 87139 	 17 	 1
+2016-05-29 	 15:30 	 30 	 price-green 	 4 	 Zürich 	 Düsseldorf 	 614770 	 20 	 5
+2016-05-29 	 16:00 	 12 	 price-orange 	 2 	 Zürich 	 Böblingen 	 199028 	 16 	 2
+2016-05-29 	 16:00 	 24 	 price-orange 	 3 	 Schlieren 	 Frankfurt am Main 	 410573 	 17 	 3
+2016-05-29 	 16:50 	 5 	 price-green 	 3 	 Zürich 	 Bern 	 121257 	 24 	 1
+2016-05-29 	 17:00 	 5 	 price-orange 	 2 	 Zürich 	 Sankt Gallen 	 86564 	 17 	 0
+2016-05-29 	 18:00 	 3 	 price-orange 	 3 	 Zürich 	 Schaffhausen 	 49323 	 16 	 0
+2016-05-29 	 18:00 	 4 	 price-green 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 21 	 0
+2016-05-29 	 18:10 	 3 	 price-green 	 2 	 Zürich 	 Glarus 	 68585 	 22 	 0
+2016-05-29 	 18:20 	 25 	 price-red 	 3 	 Zürich 	 Saarbrücken 	 338603 	 13 	 3
+2016-05-29 	 18:30 	 10 	 price-green 	 3 	 Zürich 	 Lugano 	 205435 	 20 	 2
+2016-05-29 	 18:50 	 15 	 price-green 	 2 	 Wallisellen 	 München 	 301923 	 20 	 3
+2016-05-29 	 19:00 	 10 	 price-red 	 3 	 Zürich 	 Freiburg Im Breisgau 	 150881 	 15 	 1
+2016-05-29 	 19:00 	 14 	 price-orange 	 3 	 Zürich 	 Karlsruhe 	 274469 	 19 	 2
+2016-05-29 	 19:20 	 20 	 price-green 	 3 	 Zürich 	 Frankfurt am Main 	 410132 	 20 	 3
+2016-05-29 	 21:20 	 2 	 price-green 	 3 	 Zürich 	 Schwyz 	 58656 	 29 	 0
+2016-05-29 	 21:40 	 1 	 price-green 	 3 	 Dietikon 	 Zug 	 33894 	 33 	 0
+2016-05-29 	 22:20 	 3 	 price-green 	 5 	 Zürich 	 Rickenbach Bei Schwyz 	 61662 	 20 	 0
+2016-05-30 	 00:10 	 9 	 price-red 	 3 	 Opfikon 	 Bern 	 122667 	 13 	 1
+2016-05-30 	 03:30 	 11 	 price-orange 	 3 	 Zürich 	 Lugano 	 205435 	 18 	 2
+2016-05-30 	 06:00 	 12 	 price-orange 	 4 	 Zürich 	 Stuttgart 	 196224 	 16 	 2
+2016-05-30 	 06:00 	 20 	 price-red 	 1 	 Zürich 	 München 	 307411 	 15 	 3
+2016-05-30 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-30 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-30 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-05-30 	 07:30 	 2 	 price-green 	 3 	 Zürich 	 Frauenfeld 	 43507 	 21 	 0
+2016-05-30 	 11:20 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 126630 	 14 	 1
+2016-05-30 	 11:20 	 15 	 price-orange 	 2 	 Zürich 	 Backnang 	 262608 	 17 	 2
+2016-05-30 	 13:40 	 8 	 price-orange 	 3 	 Zürich 	 Lindau (Bodensee) 	 138849 	 17 	 1
+2016-05-30 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-30 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-30 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-05-30 	 17:20 	 3 	 price-green 	 2 	 Zürich 	 Konstanz 	 70396 	 23 	 0
+2016-05-30 	 18:00 	 25 	 price-orange 	 3 	 Zürich 	 Regensburg 	 422805 	 16 	 4
+2016-05-30 	 18:30 	 15 	 price-green 	 3 	 Zürich 	 München 	 310475 	 20 	 3
+2016-05-30 	 22:00 	 10 	 price-green 	 3 	 Kloten 	 Stuttgart 	 1 	 0 	 999
+2016-05-31 	 06:00 	 50 	 price-orange 	 2 	 Zürich 	 Berlin 	 844496 	 16 	 7
+2016-05-31 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-05-31 	 07:10 	 1 	 price-red 	 3 	 Maur 	 Fällanden 	 2890 	 2 	 0
+2016-05-31 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-05-31 	 07:30 	 2 	 price-green 	 3 	 Zürich 	 Frauenfeld 	 43507 	 21 	 0
+2016-05-31 	 09:00 	 20 	 price-orange 	 2 	 Zürich 	 Kaiserslautern 	 361470 	 18 	 3
+2016-05-31 	 10:30 	 3 	 price-orange 	 3 	 Zürich 	 Luzern 	 51996 	 17 	 0
+2016-05-31 	 11:20 	 13 	 price-orange 	 2 	 Zürich 	 Stuttgart 	 217885 	 16 	 2
+2016-05-31 	 12:50 	 3 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 40 	 1
+2016-05-31 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-05-31 	 17:00 	 1 	 price-red 	 3 	 Fällanden 	 Maur 	 2889 	 2 	 0
+2016-05-31 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-05-31 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-05-31 	 21:50 	 6 	 price-red 	 3 	 Zürich 	 Stockach 	 88814 	 14 	 1
+2016-06-01 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-01 	 07:00 	 30 	 price-red 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 13 	 4
+2016-06-01 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-01 	 07:30 	 4 	 price-green 	 1 	 Zürich 	 Basel 	 87139 	 21 	 1
+2016-06-01 	 09:10 	 4 	 price-orange 	 3 	 Zürich 	 Oensingen 	 74557 	 18 	 0
+2016-06-01 	 11:40 	 2 	 price-green 	 3 	 Zürich 	 Oberägeri 	 45543 	 22 	 0
+2016-06-01 	 13:10 	 25 	 price-orange 	 3 	 Zürich 	 Frankfurt am Main 	 397579 	 15 	 3
+2016-06-01 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-01 	 17:00 	 3 	 price-green 	 2 	 Zürich 	 Feldkirch 	 128736 	 42 	 1
+2016-06-01 	 17:00 	 5 	 price-green 	 3 	 Zürich 	 Bregenz 	 124945 	 24 	 1
+2016-06-01 	 19:00 	 19 	 price-orange 	 3 	 Zürich 	 München 	 310475 	 16 	 3
+2016-06-01 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-02 	 06:00 	 50 	 price-orange 	 5 	 Zürich 	 Cottbus 	 845965 	 16 	 7
+2016-06-02 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-02 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-02 	 11:30 	 11 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 216700 	 19 	 2
+2016-06-02 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-02 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-06-02 	 17:20 	 6 	 price-green 	 2 	 Zürich 	 Lustenau 	 117508 	 19 	 1
+2016-06-02 	 17:30 	 28 	 price-red 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 14 	 4
+2016-06-02 	 18:00 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-06-02 	 18:00 	 20 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 17 	 3
+2016-06-02 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-03 	 00:00 	 25 	 price-orange 	 2 	 Erlenbach 	 Frankfurt am Main 	 413806 	 16 	 4
+2016-06-03 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-03 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-03 	 08:00 	 45 	 price-orange 	 2 	 Opfikon 	 Montpellier 	 725340 	 16 	 6
+2016-06-03 	 11:30 	 17 	 price-orange 	 3 	 Zürich 	 München 	 310475 	 18 	 3
+2016-06-03 	 12:00 	 20 	 price-red 	 3 	 Zürich 	 München 	 310475 	 15 	 3
+2016-06-03 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-06-03 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-06-03 	 14:20 	 9 	 price-red 	 3 	 Zürich 	 Lindau (Bodensee) 	 131567 	 14 	 1
+2016-06-03 	 15:10 	 20 	 price-orange 	 2 	 Kloten 	 Saarbrücken 	 348407 	 17 	 3
+2016-06-03 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-03 	 15:30 	 15 	 price-orange 	 3 	 Schwerzenbach 	 Ulm 	 241643 	 16 	 2
+2016-06-03 	 15:50 	 15 	 price-orange 	 3 	 Kloten 	 Le Grand-Saconnex 	 278191 	 18 	 2
+2016-06-03 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-03 	 16:10 	 3 	 price-green 	 3 	 Geroldswil 	 Lörrach 	 73426 	 24 	 0
+2016-06-03 	 16:30 	 2 	 price-red 	 3 	 Dietikon 	 Baden 	 19104 	 9 	 0
+2016-06-03 	 16:30 	 6 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 20 	 1
+2016-06-03 	 16:50 	 40 	 price-red 	 4 	 Zürich 	 Dortmund 	 617981 	 15 	 5
+2016-06-03 	 17:00 	 4 	 price-orange 	 2 	 Kloten 	 Sankt Blasien 	 67971 	 16 	 1
+2016-06-03 	 17:00 	 8 	 price-green 	 3 	 Zürich 	 Herrenberg 	 183961 	 22 	 1
+2016-06-03 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-06-03 	 18:00 	 18 	 price-red 	 3 	 Zürich 	 Ulm 	 247119 	 13 	 2
+2016-06-03 	 18:00 	 45 	 price-orange 	 3 	 Zürich 	 Cottbus 	 845965 	 18 	 7
+2016-06-03 	 18:10 	 5 	 price-green 	 2 	 Zürich 	 Titisee-Neustadt 	 111183 	 22 	 1
+2016-06-03 	 18:50 	 25 	 price-green 	 3 	 Schlieren 	 Suhl 	 503817 	 20 	 4
+2016-06-03 	 19:00 	 4 	 price-orange 	 3 	 Zürich 	 Konstanz 	 70396 	 17 	 0
+2016-06-03 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-03 	 19:30 	 15 	 price-red 	 4 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-06-04 	 04:00 	 40 	 price-orange 	 1 	 Zürich 	 Hannover 	 724511 	 18 	 7
+2016-06-04 	 07:20 	 12 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 214710 	 17 	 2
+2016-06-04 	 19:00 	 19 	 price-red 	 4 	 Zürich 	 Karlsruhe 	 271518 	 14 	 2
+2016-06-05 	 14:50 	 48 	 price-orange 	 3 	 Zürich 	 Berlin 	 838639 	 17 	 7
+2016-06-05 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-05 	 18:30 	 8 	 price-orange 	 1 	 Zürich 	 Lindau (Bodensee) 	 138849 	 17 	 1
+2016-06-05 	 19:00 	 25 	 price-orange 	 3 	 Zürich 	 Trier 	 431515 	 17 	 4
+2016-06-05 	 20:30 	 10 	 price-red 	 3 	 Zürich 	 Ravensburg 	 143662 	 14 	 1
+2016-06-05 	 21:10 	 14 	 price-green 	 1 	 Zürich 	 München 	 310475 	 22 	 3
+2016-06-05 	 21:40 	 1 	 price-green 	 3 	 Dietikon 	 Zug 	 33894 	 33 	 0
+2016-06-06 	 00:20 	 3 	 price-green 	 3 	 Zürich 	 Glarus 	 70422 	 23 	 0
+2016-06-06 	 06:00 	 20 	 price-red 	 1 	 Zürich 	 München 	 307411 	 15 	 3
+2016-06-06 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-06 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-06 	 11:10 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 126630 	 14 	 1
+2016-06-06 	 12:20 	 3 	 price-green 	 3 	 Zürich 	 Emmetten 	 77095 	 25 	 0
+2016-06-06 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-06 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-06 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-07 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-07 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-07 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-07 	 08:00 	 11 	 price-orange 	 3 	 Berikon 	 Reutlingen 	 219544 	 19 	 2
+2016-06-07 	 13:40 	 7 	 price-orange 	 2 	 Zürich 	 Bern 	 121257 	 17 	 1
+2016-06-07 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-07 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-07 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-08 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-08 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-08 	 14:10 	 4 	 price-green 	 3 	 Zürich 	 Sankt Gallen 	 86215 	 21 	 0
+2016-06-08 	 14:10 	 15 	 price-orange 	 2 	 Zürich 	 Milano 	 280099 	 18 	 3
+2016-06-08 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-08 	 19:30 	 4 	 price-green 	 3 	 Zürich 	 Steißlingen 	 80614 	 20 	 1
+2016-06-09 	 05:00 	 11 	 price-orange 	 3 	 Zürich 	 Stuttgart 	 216700 	 19 	 2
+2016-06-09 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-09 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-09 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-09 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-06-09 	 17:00 	 20 	 price-red 	 Ausgebucht 	 Zürich 	 München 	 307411 	 15 	 3
+2016-06-09 	 18:00 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-06-09 	 18:50 	 9 	 price-green 	 3 	 Zürich 	 Böblingen 	 197523 	 21 	 2
+2016-06-10 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-10 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-10 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-06-10 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-06-10 	 14:20 	 9 	 price-red 	 3 	 Zürich 	 Lindau (Bodensee) 	 131567 	 14 	 1
+2016-06-10 	 15:00 	 23 	 price-orange 	 3 	 Dübendorf 	 Nürnberg 	 412855 	 17 	 4
+2016-06-10 	 15:10 	 20 	 price-orange 	 2 	 Kloten 	 Saarbrücken 	 348407 	 17 	 3
+2016-06-10 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-10 	 15:30 	 15 	 price-orange 	 3 	 Schwerzenbach 	 Ulm 	 241643 	 16 	 2
+2016-06-10 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-10 	 16:00 	 7 	 price-orange 	 3 	 Zürich 	 Bregenz 	 120928 	 17 	 1
+2016-06-10 	 17:00 	 8 	 price-green 	 3 	 Zürich 	 Herrenberg 	 183961 	 22 	 1
+2016-06-10 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-06-10 	 17:30 	 1 	 price-red 	 3 	 Dübendorf 	 Küsnacht 	 15383 	 15 	 0
+2016-06-10 	 18:00 	 18 	 price-red 	 3 	 Zürich 	 Ulm 	 247119 	 13 	 2
+2016-06-10 	 18:00 	 45 	 price-orange 	 3 	 Zürich 	 Cottbus 	 845965 	 18 	 7
+2016-06-10 	 19:30 	 15 	 price-red 	 4 	 Zürich 	 Stuttgart 	 216700 	 14 	 2
+2016-06-10 	 19:32 	 19 	 price-red 	 4 	 Zürich 	 Karlsruhe 	 271518 	 14 	 2
+2016-06-10 	 23:30 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 87139 	 17 	 1
+2016-06-11 	 08:00 	 25 	 price-orange 	 2 	 Zürich 	 Verona 	 430856 	 17 	 4
+2016-06-11 	 10:00 	 2 	 price-green 	 3 	 Zürich 	 Schaffhausen 	 51873 	 25 	 0
+2016-06-11 	 23:10 	 2 	 price-green 	 3 	 Zürich 	 Luzern 	 51996 	 25 	 0
+2016-06-12 	 09:00 	 20 	 price-green 	 3 	 Dübendorf 	 Chemnitz 	 640556 	 32 	 5
+2016-06-12 	 10:00 	 60 	 price-orange 	 1 	 Zürich 	 Flensburg 	 1023335 	 17 	 9
+2016-06-12 	 10:00 	 18 	 price-green 	 1 	 Zürich 	 Pirna 	 740178 	 41 	 6
+2016-06-12 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-12 	 19:00 	 25 	 price-orange 	 2 	 Zürich 	 Mainz 	 406723 	 16 	 4
+2016-06-13 	 06:00 	 10 	 price-orange 	 2 	 Zürich 	 Rust 	 176163 	 17 	 1
+2016-06-13 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-13 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-13 	 10:00 	 64 	 price-orange 	 3 	 Zürich 	 Bari 	 1164597 	 18 	 11
+2016-06-13 	 11:10 	 9 	 price-red 	 3 	 Zürich 	 Bern 	 126630 	 14 	 1
+2016-06-13 	 15:40 	 3 	 price-green 	 2 	 Zürich 	 Basel 	 87139 	 29 	 1
+2016-06-13 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-13 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-14 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-14 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-14 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-14 	 07:30 	 20 	 price-green 	 5 	 Zürich 	 Giesen 	 700679 	 35 	 6
+2016-06-14 	 09:50 	 10 	 price-green 	 2 	 Zürich 	 Lugano 	 205435 	 20 	 2
+2016-06-14 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-14 	 16:00 	 20 	 price-green 	 3 	 Zürich 	 Frankfurt am Main 	 403767 	 20 	 4
+2016-06-14 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-15 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-15 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-15 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-15 	 17:50 	 11 	 price-orange 	 2 	 Zürich 	 Stuttgart 	 216700 	 19 	 2
+2016-06-16 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-16 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-16 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-16 	 16:00 	 1 	 price-green 	 3 	 Zürich 	 Winterthur 	 23833 	 23 	 0
+2016-06-16 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-06-16 	 17:20 	 40 	 price-orange 	 2 	 Regensdorf 	 Riesa 	 725813 	 18 	 7
+2016-06-16 	 18:00 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-06-16 	 19:30 	 13 	 price-green 	 4 	 Zürich 	 München 	 310475 	 23 	 3
+2016-06-17 	 03:30 	 7 	 price-orange 	 2 	 Zürich 	 Bern 	 121257 	 17 	 1
+2016-06-17 	 06:40 	 2 	 price-red 	 3 	 Zürich 	 Baden 	 23699 	 11 	 0
+2016-06-17 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-17 	 10:00 	 30 	 price-green 	 2 	 Zürich 	 Szombathely 	 863580 	 28 	 8
+2016-06-17 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-06-17 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-06-17 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-17 	 15:30 	 15 	 price-orange 	 3 	 Schwerzenbach 	 Ulm 	 241643 	 16 	 2
+2016-06-17 	 15:50 	 3 	 price-red 	 3 	 Zürich 	 Frauenfeld 	 43507 	 14 	 0
+2016-06-17 	 16:00 	 15 	 price-green 	 2 	 Zürich 	 Würzburg 	 359585 	 23 	 3
+2016-06-17 	 16:00 	 52 	 price-orange 	 3 	 Zürich 	 Budapest 	 990528 	 19 	 9
+2016-06-17 	 16:30 	 2 	 price-red 	 3 	 Zürich 	 Winterthur 	 24181 	 12 	 0
+2016-06-17 	 17:00 	 4 	 price-orange 	 2 	 Kloten 	 Sankt Blasien 	 67971 	 16 	 1
+2016-06-17 	 17:00 	 8 	 price-green 	 3 	 Zürich 	 Herrenberg 	 183961 	 22 	 1
+2016-06-17 	 17:00 	 22 	 price-orange 	 3 	 Zürich 	 Nürnberg 	 422170 	 19 	 4
+2016-06-17 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-06-17 	 17:20 	 30 	 price-red 	 3 	 Zürich 	 Frankfurt am Main 	 405207 	 13 	 3
+2016-06-17 	 18:00 	 18 	 price-red 	 3 	 Zürich 	 Ulm 	 247119 	 13 	 2
+2016-06-17 	 18:10 	 20 	 price-orange 	 3 	 Zürich 	 Darmstadt 	 379979 	 18 	 3
+2016-06-18 	 11:20 	 20 	 price-red 	 2 	 Zürich 	 Chamonix-Mont-Blanc 	 293865 	 14 	 3
+2016-06-18 	 21:40 	 6 	 price-orange 	 2 	 Zürich 	 Villingen-Schwenningen 	 118147 	 19 	 1
+2016-06-19 	 06:50 	 11 	 price-green 	 3 	 Zürich 	 München 	 310785 	 28 	 3
+2016-06-19 	 08:00 	 7 	 price-green 	 2 	 Zürich 	 Dresden 	 720771 	 102 	 6
+2016-06-19 	 09:00 	 19 	 price-red 	 Ausgebucht 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-06-19 	 15:20 	 22 	 price-orange 	 3 	 Zürich 	 Würzburg 	 358738 	 16 	 3
+2016-06-19 	 20:20 	 2 	 price-green 	 3 	 Zürich 	 Lachen 	 41333 	 20 	 0
+2016-06-19 	 22:00 	 1 	 price-green 	 3 	 Zürich 	 Zug 	 33752 	 33 	 0
+2016-06-20 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-20 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-20 	 17:20 	 5 	 price-green 	 2 	 Zürich 	 Bern 	 121257 	 24 	 1
+2016-06-20 	 17:40 	 7 	 price-green 	 4 	 Zürich 	 Bern 	 121257 	 17 	 1
+2016-06-21 	 04:10 	 22 	 price-orange 	 2 	 Zürich 	 Nürnberg 	 422170 	 19 	 4
+2016-06-21 	 07:20 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 1560 	 1 	 0
+2016-06-21 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-21 	 08:00 	 18 	 price-green 	 4 	 Zürich 	 Budapest 	 994082 	 55 	 9
+2016-06-21 	 17:10 	 1 	 price-red 	 3 	 Zürich 	 Zürich 	 790 	 0 	 0
+2016-06-22 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-22 	 08:00 	 25 	 price-orange 	 2 	 Zürich 	 Frankfurt am Main 	 403767 	 16 	 4
+2016-06-22 	 10:00 	 4 	 price-orange 	 3 	 Zürich 	 Konstanz 	 70396 	 17 	 0
+2016-06-23 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-23 	 16:00 	 6 	 price-red 	 4 	 Zürich 	 Basel 	 87139 	 14 	 1
+2016-06-23 	 17:00 	 22 	 price-orange 	 3 	 Zürich 	 Nürnberg 	 422170 	 19 	 4
+2016-06-23 	 18:00 	 19 	 price-red 	 2 	 Zürich 	 Karlsruhe 	 274469 	 14 	 2
+2016-06-24 	 07:30 	 3 	 price-red 	 2 	 Zürich 	 Frauenfeld 	 43698 	 14 	 0
+2016-06-24 	 13:00 	 5 	 price-orange 	 2 	 Zürich 	 Basel 	 83469 	 16 	 1
+2016-06-24 	 13:00 	 20 	 price-red 	 4 	 Schwerzenbach 	 München 	 298626 	 14 	 3
+2016-06-24 	 13:30 	 38 	 price-green 	 3 	 Zürich 	 Budapest 	 990528 	 26 	 9
+2016-06-24 	 15:00 	 20 	 price-red 	 2 	 Zürich 	 München 	 310475 	 15 	 3
+2016-06-24 	 15:30 	 15 	 price-orange 	 3 	 Schwerzenbach 	 Ulm 	 241643 	 16 	 2
+2016-06-24 	 16:00 	 52 	 price-orange 	 3 	 Zürich 	 Budapest 	 990528 	 19 	 9
+2016-06-24 	 17:00 	 4 	 price-orange 	 2 	 Kloten 	 Sankt Blasien 	 67971 	 16 	 1
+2016-06-24 	 17:00 	 8 	 price-green 	 3 	 Zürich 	 Herrenberg 	 183961 	 22 	 1
+2016-06-24 	 17:00 	 33 	 price-red 	 3 	 Zürich 	 Meiningen 	 475914 	 14 	 4
+2016-06-24 	 17:20 	 30 	 price-red 	 3 	 Zürich 	 Frankfurt am Main 	 405207 	 13 	 3
+2016-06-24 	 18:00 	 18 	 price-red 	 3 	 Zürich 	 Ulm 	 247119 	 13 	 2
+2016-06-24 	 19:32 	 19 	 price-red 	 4 	 Zürich 	 Karlsruhe 	 271518 	 14 	 2
