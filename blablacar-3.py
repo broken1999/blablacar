@@ -118,7 +118,7 @@ for page in range(1,totalnumofpages):
 			desend=des.split().index('(Bitte')
 			destination="".join(des.split()[desbegin+1:desend])
 		try :
-			soupfordistance = BeautifulSoup(urllib2.urlopen('https://maps.googleapis.com/maps/api/distancematrix/xml?origins='+"".join(departure.encode('utf-8').split())+'&destinations='+"".join(destination.encode('utf-8').split())+'&key=AIzaSyDayx9bvusyfabRvrwlemPNsTng7YujDzo&mode=driving'))
+			soupfordistance = BeautifulSoup(urllib2.urlopen('https://maps.googleapis.com/maps/api/distancematrix/xml?origins='+"".join(departure.encode('utf-8').split())+'&destinations='+"".join(destination.encode('utf-8').split())+'&key=####&mode=driving'))
 			# check availability of distance matrix
 			status=soupfordistance('status')[1].string
 		
